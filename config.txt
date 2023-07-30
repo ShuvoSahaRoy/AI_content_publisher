@@ -1,0 +1,5 @@
+openai_api_key=your_openai_api_key
+site_url=https://ypur_wordpress_site/xmlrpc.php
+username=username_of_wordpress_site
+password=password
+max_tokens= 4000
